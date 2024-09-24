@@ -1,0 +1,26 @@
+:root{
+  --hero_text: 32px;
+  --highlight__text: 24px;
+  --highlight__text-weight: 500;
+}
+
+*{
+
+  padding: 0;
+  margin: 0;
+  font-family: Raleway, sans-serif;
+}
+.section-padding{
+  padding: 2rem 1rem;
+  
+}
+.button{
+  border-radius: 12px;
+  background-color: #477EFF;
+  font-weight: 500;
+  color: #FFF;
+  padding: .5rem 1rem;
+  border: none;
+
+}
+

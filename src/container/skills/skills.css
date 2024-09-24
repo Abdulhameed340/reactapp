@@ -1,0 +1,46 @@
+.skills
+{
+    font-family: Manrope;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+
+.skills__header
+{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.skills__header > h2
+{
+    font-size: 24pt;
+}
+
+.skills__type
+{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.skills__card
+{
+    display: flex;
+    background-color: #ECEBEB;
+    justify-content: space-between;
+    padding: 2rem;
+    border-radius: 15px;
+}
+
+.skills__card > h3
+{
+    display: flex;
+    flex: 0.3;
+}
+
+.skills__card > p
+{
+    display: flex;
+    flex: 0.7;
+}

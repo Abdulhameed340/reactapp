@@ -1,0 +1,22 @@
+.portfolio
+{
+    font-family: Manrope;
+}
+
+.portfolio__header
+{
+    text-align: center;
+    gap: 1rem;
+}
+
+.portfolio__header > h2
+{
+    padding-bottom: 1rem;
+    font-size: 24pt;
+}
+
+.portfolio__header > p
+{
+    padding-bottom: 1rem;
+    font-size: 18pt;
+}
