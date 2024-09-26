@@ -1,0 +1,58 @@
+body
+{
+    font-family: 'Marope';
+}
+
+#menu
+{
+    z-index: 999;
+    padding-bottom: 1rem;
+    position: relative;
+}
+
+.menu-btn
+{
+    position: inherit;
+    cursor: pointer;
+    z-index: 999;
+}
+
+.menu-btn__burger .menu-btn.open
+{
+    transition: all 0.3s ease;
+    background-color: transparent;
+}
+
+#dropdown-menu
+{
+    margin-top: 5rem;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    border: none;
+    position: fixed;
+    background-color: #ecebeb;
+    border-top: 1px solid #fff;
+}
+
+#dropdown-menu ul
+{
+    list-style: none;
+    padding: 0rem 2rem;
+    margin: 0;
+    padding-bottom: 1rem;
+}
+
+#dropdown-menu ul li
+{
+    margin: 10px 0px;
+    gap: 1rem;
+    color: #000;
+}
+
+#dropdown-menu ul li a{
+    text-decoration: none;
+    display:block;
+}

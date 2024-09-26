@@ -10,10 +10,10 @@ const Footer = () => {
     <div id='footer'>
       <div className="footer__top">
         <p>Reach me on my socials:</p>
-        <a href=""><img src={Facebook} alt="" /></a>
-        <a href=""><img src={Whatsapp} alt="" /></a>
-        <a href=""><img src={Instagram} alt="" /></a>
-        <a href=""><img src={Github} alt="" /></a>
+        <a href="https://facebook.com"><img src={Facebook} alt="" /></a>
+        <a href="https://whatsapp.com"><img src={Whatsapp} alt="" /></a>
+        <a href="https://instagram.com"><img src={Instagram} alt="" /></a>
+        <a href="https://github.com"><img src={Github} alt="" /></a>
       </div>
       <div className="footer__down">
         <p><b>2024 Abdul </b></p>
