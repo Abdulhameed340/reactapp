@@ -1,6 +1,8 @@
-.portfolio
+#portfolio
 {
     font-family: Manrope;
+    background-color: #ecebeb;
+    
 }
 
 .portfolio__header
@@ -19,4 +21,78 @@
 {
     padding-bottom: 1rem;
     font-size: 18pt;
+}
+
+.portfolio__body
+{
+    gap: 1.5rem;
+}
+
+.cards
+{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.card
+{
+    display: flex;
+    gap: 2rem;
+    background-color: #ddd7d7;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.hi{
+    flex-direction: row-reverse;
+}
+
+.card .img
+{
+    /* display: flex; */
+    flex: 0.3;
+}
+
+.card .img > img
+{
+    width: 30rem;
+    height: auto;
+    border-radius: 15px;
+    object-fit: contain;
+}
+
+.card .text
+{
+    display: flex;
+    flex-direction: column;
+    flex: 0.7;
+    gap: 1.5rem;
+    /* align-items: center; */
+}
+
+.text > a
+{
+    text-decoration: none;
+}
+
+@media screen and (max-width:992px) {
+    .card
+    {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .card
+    {
+        flex-direction: column;
+    }
+    .card .img > img
+{
+    width: 16rem;
+    height: auto;
+    border-radius: 15px;
+    object-fit: contain;
+}
 }
