@@ -13,8 +13,8 @@ const Hero = () => {
         <img src={Face} alt="" />
     </div>
     <div className="hero2"><div className="hero__text">
-        <h1>Abdul</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae accusamus, architecto aut mollitia perferendis asperiores ut atque minus molestias possimus facere beatae et fugit pariatur voluptatibus nesciunt eligendi illum perspiciatis optio impedit quaerat! Vitae, obcaecati quidem fuga quod odit, a sint magnam pariatur ipsam labore sed veritatis. Esse suscipit, laudantium placeat fuga, ratione architecto optio unde non porro rerum soluta autem dolor dignissimos, quam rem accusantium deleniti! Minima voluptate animi odit debitis laborum magnam nesciunt corporis dicta sint possimus quas corrupti, vero adipisci tempora voluptas neque architecto. Delectus quod saepe veritatis, necessitatibus mollitia labore incidunt totam veniam autem perferendis!</p>
+        <h1>Mido </h1>
+        <p>I am an accomplished web developer and designer, adept in HTML, CSS, JavaScript, and React, with a portfolio featuring several published websites. My expertise allows me to craft engaging, user-friendly interfaces that balance functionality and aesthetic appeal. I possess a strong understanding of web design principles and best practices, ensuring that my projects not only look great but also perform optimally across devices. My passion for coding drives you to explore new technologies and frameworks, continually expanding my skill set. With a commitment to delivering exceptional results, I aim to create ultimate web experiences that resonate with users.</p>
     </div>
     <div className="hero__button">
         <a href="https://github.com"><button className='button'><img src={Github} alt="" />Github</button></a>

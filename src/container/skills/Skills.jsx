@@ -10,11 +10,11 @@ const Skills = () => {
       <div className="skills__type">
         <div className="skills__card">
           <h3>Technical Skills</h3>
-          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cumque illum velit fuga quia dolor numquam sapiente, illo vel enim dicta ab ipsam et laudantium ipsa soluta temporibus reiciendis assumenda dolore iure itaque? Quis inventore fuga a recusandae dignissimos qui, deleniti quam quo expedita obcaecati praesentium vitae voluptatum sequi odit!</p>
+          <p>Master React fundamentals, including hooks, state management (Redux/Context), and React Router. Gain expertise in performance optimization, component lifecycle, and testing with Jest. Enhance your front-end skills with HTML, CSS, JavaScript, API integration, and Git version control.</p>
         </div>
         <div className="skills__card">
           <h3>Soft Skills</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia sit, aut impedit minima perferendis, quasi eum iure porro similique hic aliquid sed saepe quod exercitationem nam? In, illum facilis! Assumenda harum iste voluptates, odio aliquid iure dolor accusamus fugiat voluptas et, dolorem itaque molestias cumque nobis. Modi ratione magni facere.</p>
+          <p>Develop problem-solving, adaptability, and communication skills to collaborate effectively. Cultivate attention to detail and time management for efficient project delivery. Embrace continuous learning, teamwork, and feedback to improve code quality, and build strong relationships with designers, developers, and stakeholders.</p>
         </div>
       </div>
     </div>

@@ -19,7 +19,7 @@ const Portfolio = () => {
             </div>
             <div className="text">
               <h2>My Resume</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione eligendi id facilis modi quisquam quaerat temporibus amet sunt dolores fuga culpa explicabo, qui quis quod repellendus dolorum ab accusantium fugit. Quos magni quibusdam aut adipisci earum nihil aperiam eos quas.</p>
+              <p>My resume website showcases my professional experience, skills, and accomplishments. It's a dynamic portfolio that highlights my journey, projects, and achievements, making it easy for potential employers to connect with me.</p>
               <a href="https://portfolioindex.vercel.app/"><button className='button'>Visit Website</button></a>
             </div>
           </div>
@@ -29,7 +29,7 @@ const Portfolio = () => {
             </div>
             <div className="text">
               <h2>Form Validation Website</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione eligendi id facilis modi quisquam quaerat temporibus amet sunt dolores fuga culpa explicabo, qui quis quod repellendus dolorum ab accusantium fugit. Quos magni quibusdam aut adipisci earum nihil aperiam eos quas.</p>
+              <p>My form validation website ensures seamless user experience by validating input fields in real-time. It helps developers create error-free forms, enhancing data accuracy and improving overall website functionality.</p>
               <a href="https://popout-gilt.vercel.app/"><button className='button'>Visit Website</button></a>
             </div>
           </div>
@@ -39,7 +39,7 @@ const Portfolio = () => {
             </div>
             <div className="text">
               <h2>Popout Animation Form Website</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione eligendi id facilis modi quisquam quaerat temporibus amet sunt dolores fuga culpa explicabo, qui quis quod repellendus dolorum ab accusantium fugit. Quos magni quibusdam aut adipisci earum nihil aperiam eos quas.</p>
+              <p>My form validation website features an engaging popout animation that enhances user interaction. It ensures real-time validation of input fields, improving data accuracy while providing a visually appealing experience for users.</p>
               <a href="https://formvalidating.vercel.app/"><button className='button'>Visit Website</button></a>
             </div>
           </div>

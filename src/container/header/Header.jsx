@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div id='header' className='header section-padding'>
         <div className='logo'>
-            <h2>Abdul</h2>
+            <h2>Mido</h2>
         </div>
         <div className='header__links'>
             <a href="#hero">About</a>
