@@ -30,7 +30,7 @@ const Portfolio = () => {
             <div className="text">
               <h2>Form Validation Website</h2>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione eligendi id facilis modi quisquam quaerat temporibus amet sunt dolores fuga culpa explicabo, qui quis quod repellendus dolorum ab accusantium fugit. Quos magni quibusdam aut adipisci earum nihil aperiam eos quas.</p>
-              <a href="https://formvalidating.vercel.app/"><button className='button'>Visit Website</button></a>
+              <a href="https://popout-gilt.vercel.app/"><button className='button'>Visit Website</button></a>
             </div>
           </div>
           <div className="card section-padding">
@@ -40,7 +40,7 @@ const Portfolio = () => {
             <div className="text">
               <h2>Popout Animation Form Website</h2>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione eligendi id facilis modi quisquam quaerat temporibus amet sunt dolores fuga culpa explicabo, qui quis quod repellendus dolorum ab accusantium fugit. Quos magni quibusdam aut adipisci earum nihil aperiam eos quas.</p>
-              <a href=""><button className='button'>Visit Website</button></a>
+              <a href="https://formvalidating.vercel.app/"><button className='button'>Visit Website</button></a>
             </div>
           </div>
         </div>
