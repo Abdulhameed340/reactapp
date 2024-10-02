@@ -19,7 +19,7 @@ const Hero = () => {
     <div className="hero__button">
         <a href="https://github.com"><button className='button'><img src={Github} alt="" />Github</button></a>
         <a href="https://linkedin.com"><button className='button'><img src={Linkedin} alt="" />LinkedIn</button></a>
-        <a href="https://whatsapp"><button className='button'><img src={Whatsapp} alt="" />Whatsapp</button></a>
+        <a href="https://whatsapp.com"><button className='button'><img src={Whatsapp} alt="" />Whatsapp</button></a>
 
     </div></div>
     </div>
